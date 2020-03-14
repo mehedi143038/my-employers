@@ -1,0 +1,22 @@
+.circular{
+    border-radius: 70%;
+    width: 200px;
+    height: 200px;
+}
+.employee{
+    display: flex;
+    margin: 20px;
+}
+.info{
+    text-align: center;
+    width: 70%;
+}
+.add-button{
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+}
+.display{
+    display: none;
+}

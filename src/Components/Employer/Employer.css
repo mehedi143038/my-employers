@@ -1,0 +1,9 @@
+.employer{
+    display: flex;
+}
+.employer-info{
+    width: 70%;
+    padding: 5px;
+    margin: 5px;
+    border-right: 1px solid gray;
+}
